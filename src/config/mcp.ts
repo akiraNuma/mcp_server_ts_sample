@@ -10,6 +10,6 @@ export const mcpConfig = {
     prompts: {},
   },
   transport: {
-    enableJsonResponse: true,
+    enableJsonResponse: false,
   },
 } as const
